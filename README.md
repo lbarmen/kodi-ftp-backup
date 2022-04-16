@@ -1,7 +1,9 @@
 # kodi ftp backup
 python 3 matrix kodi backup ftp
 
-change your ftp ip, login and pass in ftp-backup
+change your FTP IP, login and pass in ftp-backup and directory backup
+
+;-)
 
 ssh command
 ------------
